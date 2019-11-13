@@ -14,6 +14,7 @@
     "http-server": "^0.11.1",
     "react": "16.3.2",
     "react-360": "~1.1.0",
+    "react-360-cli": "^1.1.0",
     "react-360-gaze-button": "^1.0.0",
     "react-360-web": "~1.1.0",
     "react-native": "~0.55.4",
